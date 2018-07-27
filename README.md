@@ -7,5 +7,5 @@
 
 
 
-#### https://github.com/jpb8vf/Digital-Concept-Tutorial/edit/master/Tutorial.md
+#### https://github.com/jpb8vf/Digital-Concept-Tutorial/master/Tutorial.md
 
