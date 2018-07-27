@@ -6,4 +6,4 @@
 
 
 
-#### https://github.com/jpb8vf/Digital-Concept-Tutorial/edit/master/README.md
+#### https://github.com/jpb8vf/Digital-Concept-Tutorial/blob/master/README.md
